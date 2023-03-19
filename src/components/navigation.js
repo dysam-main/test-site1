@@ -9,7 +9,8 @@ const Navigation = (props) => {
   return (
     <header data-role="Header" className="navigation-header">
       <div className="navigation-max-width">
-        <img alt={props.image_alt} src={props.image_src} />
+        {/* <img alt={props.image_alt} src={props.image_src} /> */}
+        <h3>DiseñoCreativo</h3>
         <div className="navigation-nav">
           <NavigationLinks rootClassName="navigation-links-root-class-name17"></NavigationLinks>
           <button className="button-secondary button button-md">
@@ -24,7 +25,7 @@ const Navigation = (props) => {
         <div data-role="MobileMenu" className="mobile-menu">
           <div className="navigation-nav1">
             <div className="navigation-container">
-              <img alt={props.image_alt1} src={props.image_src1} />
+            <h3>DiseñoCreativo</h3>
               <div
                 data-role="CloseMobileMenu"
                 className="navigation-close-mobile-menu"
@@ -35,9 +36,6 @@ const Navigation = (props) => {
               </div>
             </div>
             <NavigationLinks rootClassName="navigation-links-root-class-name18"></NavigationLinks>
-            <button className="button-secondary button button-md">
-              {props.button2}
-            </button>
           </div>
         </div>
       </div>

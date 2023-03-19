@@ -14,7 +14,7 @@
 .navigation-links-text1 {
   cursor: pointer;
   transition: 0.3s;
-  margin-left: 41px;
+  margin-left: 15px;
 }
 .navigation-links-text1:hover {
   color: var(--dl-color-scheme-brown);
@@ -22,7 +22,7 @@
 .navigation-links-text2 {
   cursor: pointer;
   transition: 0.3s;
-  margin-left: 41px;
+  margin-left: 15px;
 }
 .navigation-links-text2:hover {
   color: var(--dl-color-scheme-brown);
@@ -30,7 +30,7 @@
 .navigation-links-text3 {
   cursor: pointer;
   transition: 0.3s;
-  margin-left: 41px;
+  margin-left: 15px;
 }
 .navigation-links-text3:hover {
   color: var(--dl-color-scheme-brown);
