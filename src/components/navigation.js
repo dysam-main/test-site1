@@ -45,10 +45,10 @@ const Navigation = (props) => {
 
 Navigation.defaultProps = {
   image_src: '/playground_assets/logo1-1200w.png',
-  button: 'Get in touch',
+  button: 'Contactanos',
   image_alt1: 'image',
   image_src1: '/playground_assets/logo1-1200w.png',
-  button2: 'Get in touch',
+  button2: 'Contactanos',
   image_alt: 'logo',
 }
 

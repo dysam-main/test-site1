@@ -32,7 +32,7 @@ const Home = (props) => {
                 <span>tempor incididunt ut labore et dolore magna aliqua.</span>
               </span>
               <button className="home-primary button-primary button-lg button">
-                Get in touch with us
+                Contactate
               </button>
             </div>
             <div className="home-gallery">
@@ -241,11 +241,6 @@ const Home = (props) => {
             <h2 className="home-text38 Heading2">
               <span>
                 Tenemos un proceso simple
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: " ",
-                  }}
-                />
               </span>
               <br></br>
             </h2>
@@ -258,11 +253,6 @@ const Home = (props) => {
                   do eiusmod tempor incididunt Lorem ipsum dolor sit amet,
                   consectetur adipiscing elit, sed do eiusmod tempor incididunt.
                   Lorem ipsum dolor sit amet, consec
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: " ",
-                    }}
-                  />
                 </span>
               </div>
             </div>
@@ -271,11 +261,6 @@ const Home = (props) => {
               <div className="home-container6">
                 <span className="home-text46">
                   BrainStorming
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: " ",
-                    }}
-                  />
                 </span>
                 <span className="home-text47">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -309,11 +294,6 @@ const Home = (props) => {
               <span>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: " ",
-                  }}
-                />
               </span>
               <br></br>
               <span>
@@ -360,7 +340,7 @@ const Home = (props) => {
               </span>
             </span>
             <button className="home-primary3 button-lg button-secondary-white button">
-              Contact us
+              Contactanos
             </button>
           </div>
         </div>
