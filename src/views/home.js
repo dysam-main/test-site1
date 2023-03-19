@@ -160,7 +160,7 @@ const Home = (props) => {
               ></PortofolioCard>
               <PortofolioCard
                 image_src="https://images.unsplash.com/photo-1567103472667-6898f3a79cf2?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fGNvY2ElMjBjb2xhfGVufDB8fHx8MTY0NjkyNjI1Mw&amp;ixlib=rb-1.2.1&amp;h=400"
-                project_title="Diseño de Campañña 2020"
+                project_title="Diseño de Campaña 2020"
                 rootClassName="portofolio-card-root-class-name2"
               ></PortofolioCard>
               <PortofolioCard
@@ -327,11 +327,6 @@ const Home = (props) => {
               <span>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: " ",
-                  }}
-                />
               </span>
               <br></br>
               <span>
@@ -356,20 +351,10 @@ const Home = (props) => {
                   <br></br>
                   <span>
                     Alguna Ciudad
-                    <span
-                      dangerouslySetInnerHTML={{
-                        __html: " ",
-                      }}
-                    />
                   </span>
                   <br></br>
                   <span>
                     Alguna Provincia
-                    <span
-                      dangerouslySetInnerHTML={{
-                        __html: " ",
-                      }}
-                    />
                   </span>
                   <br></br>
                   <span>Código Postal</span>
@@ -399,11 +384,6 @@ const Home = (props) => {
             </span>
             <span className="home-text87">Dysam.Soft</span>
             <span>
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: " ",
-                }}
-              />
             </span>
           </span>
         </footer>
